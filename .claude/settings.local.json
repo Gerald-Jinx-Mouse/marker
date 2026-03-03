@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(pip show:*)",
+      "Bash(pip install:*)",
+      "Bash(py:*)",
+      "Bash(where:*)",
+      "Bash(where uv:*)",
+      "Bash(uv venv:*)",
+      "Bash(python:*)",
+      "Bash(\"c:/Users/jacob/source/repos/Gerald-Jinx-Mouse/marker/DAXTER/.venv/Scripts/python.exe\":*)",
+      "Bash(\"c:/Users/jacob/source/repos/Gerald-Jinx-Mouse/marker/DAXTER/.venv/Scripts/marker_single.exe\":*)"
+    ]
+  }
+}
