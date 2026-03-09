@@ -177,3 +177,14 @@ cython_debug/
 .idea/
 
 .vscode/
+
+# DAXTER - large CFA source PDF (427MB) and extracted images
+DAXTER/CFA/
+
+# DAXTER - split CFA markdown output files
+DAXTER/output/CFA_Level_1_All_Books/2026_CFA_Level_I_Schwesers_Secret_Sauce.md
+DAXTER/output/CFA_Level_1_All_Books/SchweserNotes_2026_CFA_Level_1_Book_1_Quantitative_Methods_Economics_and_Corporate_Issuers.md
+DAXTER/output/CFA_Level_1_All_Books/SchweserNotes_2026_CFA_Level_1_Book_2_Financial_Statement_Analysis_and_Equity_Investments.md
+DAXTER/output/CFA_Level_1_All_Books/SchweserNotes_2026_CFA_Level_1_Book_3_Fixed_Income_and_Derivatives.md
+DAXTER/output/CFA_Level_1_All_Books/SchweserNotes_2026_CFA_Level_1_Book_4_Alternative_Investments_Portfolio_Management_and_Ethical_and_Professional_Standards.md
+DAXTER/output/CFA_Level_1_All_Books/SchweserNotes_2026_CFA_Level_1_Quicksheet.md
